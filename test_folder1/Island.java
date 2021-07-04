@@ -26,4 +26,5 @@ public static void dfs(char[][] input,int i,int j){
 	dfs(input,i,j+1);
 	dfs(input,i,j-1);
 }
+//test move
 }
